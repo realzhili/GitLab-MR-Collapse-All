@@ -1,0 +1,1 @@
+# GitLab-MR-Collapse-All
