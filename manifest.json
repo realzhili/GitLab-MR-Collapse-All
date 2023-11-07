@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "GitLab Diff Collapse All",
   "description": "Collapse all diff files on the Merge Request UI of GitLab.",
-  "version": "1.0",
+  "version": "1.1",
   "icons": {
     "16": "images/fox_16x16.png",
     "32": "images/fox_32x32.png",
